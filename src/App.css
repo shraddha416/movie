@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 15px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.mainContainer {
+  padding: 30px;
+}
+
+.card {
+  height: 250px;
+  width: 150px;
+  display: inline-grid;
+  border: 1px solid gainsboro;
+  margin: 40px;
+
+}
+
+.bold{
+  font-weight: 500;
+  text-align: left;
+}
+
+input[type=text]{
+  height: 30px;
+  width: 300px;
+  border: 1px solid grey;
+  margin: 20px;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+button{
+  height: 30px;
+  width: 120px;
+}
+
+input[type=submit]{
+  height: 40px;
+  width: 120px;
+  border: 1px solid grey;
+  margin: 20px;
+  border-radius: 4px;
+  padding: 4px;
+}
