@@ -43,7 +43,8 @@ class Profile extends React.Component{
         <header className="App-header"></header>
         <div className="mainContainer">
           {(this.state.movieInfo) ? (<div style={{ display: 'flex' }}>
-            <img src={this.state.movieInfo.Poster} />
+            {(this.state.movieInfo.Poster !== 'N/A') ? <img src={this.state.movieInfo.Poster} /> :
+              <span id="dummy_image" style={{ height: 430,width: 300 }}>{this.state.movieInfo.Title[0]}</span> }
             <div style={{ paddingLeft: 40 , textAlign: 'left' }}>
               <p>
                 <span className="bold">Title : </span>{this.state.movieInfo.Title}

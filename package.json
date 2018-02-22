@@ -18,5 +18,23 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shraddha416/movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "engines": {
+    "node": "8.9.2"
+  },
+  "author": "shraddha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shraddha416/movie/issues"
+  },
+  "homepage": "https://github.com/shraddha416/movie#readme"
 }

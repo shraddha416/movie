@@ -20,11 +20,10 @@ class App extends Component {
     this.handleSubmit = this.handleSubmit.bind(this);
   }
 
-  getList(key) {
+  getList(key,page = undefined) {
     let that = this;
     let request = new XMLHttpRequest();
-    let url = `http://www.omdbapi.com/?apikey=80d8aa1e&s=${key}&page=${this.state.page}`;
-    let page = this.state.page;
+    let url = `http://www.omdbapi.com/?apikey=80d8aa1e&s=${key}&page=${page || this.state.page}`;
     // console.log(that.state.page,"inside function------------>");
 
     request.onreadystatechange = function () {
@@ -91,9 +90,10 @@ class App extends Component {
               this.props.list.map((res, index) => {
                 return (<Link to={`/${res.imdbID}`} key={index.toString()}>
                   <div className="card">
-                    <img src={ res.Poster} height="150px" width="150px"/>
-                    <div>Title : {res.Title}</div>
-                    <div>Year : {res.Year}</div>
+                    { (res.Poster !== 'N/A') ? <img src={ res.Poster } height="180px" width="150px"/> :
+                      <span id="dummy_image">{res.Title[0]}</span>}
+                    <div className="title">{res.Title}</div>
+                    <div className="year">( {res.Year} )</div>
                   </div>
                 </Link>)
               })
@@ -104,7 +104,7 @@ class App extends Component {
               <button onClick={
                 ()=>
                   {
-                    this.setState({ page: this.state.page+1 });this.getList(this.state.key);}
+                    this.setState({ page: this.state.page+1 });this.getList(this.state.key,this.state.page+1);}
                   }>Load More</button>
           }
         </div>
