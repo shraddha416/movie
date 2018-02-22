@@ -6,7 +6,7 @@ import createBrowserHistory from 'history/createBrowserHistory'
 import { createStore } from 'redux';
 import './index.css';
 import reducer from './Reducers';
-import Routes from './Routes';
+import Routes from './components/Routes';
 import registerServiceWorker from './registerServiceWorker';
 
 const store = createStore(reducer);

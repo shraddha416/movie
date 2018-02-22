@@ -2,9 +2,9 @@ import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import * as actions from './Actions';
+import * as actions from '../Actions/index';
 
-import './App.css';
+import '../App.css';
 
 class App extends Component {
   constructor(props) {

@@ -2,279 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91b0d9a5-cebd-4f31-8ce1-b87d678230c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0026245bf50480e1a59d5d8dc0b96cecedf3fb3c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0161b1706769093d26aa39125f46cf3817f5b426.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/01890d50c4e2965bc72d95c6d273e82ebe47d9b2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/01d55a57df3c220e18841522614053adb458fd81.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/01e98937096341e50189557acae1eebddcf4996e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0304b9d586a88d9747d5ddd2ded8efe0348ac233.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/056a0692700947c7ed9e24c1e797b14b02459188.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08543345f6eff9a3977a0b65bcf1b049c734c6f2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0ae8605e2906422e88873620d5c18710064c5350.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0d3381cb4d400ff6146c45cbd6c684dd14d63e74.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0d70dcba4be12414e43aeba4783957759da4c10c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0d7517fc7d12cca8ebc507324aa322933c9a2dc4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0de31aa6cc55e64826276d7803a2ff7f99c029f8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0e1511767e9d9e4f5d1623f910aabd3fbaeba201.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/104330e13dec88c0e8d3f3ecc6a2acdc25bb7889.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1066f3010ba9e701892720c4ffbc62a00f4a4777.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/135365e16b46e9e408e92de2e7c939d0fb1979b7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/14884faa19f402d8c7adde818c6769f220dd77a0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/15043232eba090d8b147012187dd0cf2e2c18754.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1659882b1dea9cecc4da196e4049022a647d92db.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/16d0519c2e1a94b3a5273fc010ee332c835b27ab.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/17b1259c0aa5f8b5a96849513463b4d1dfd53be0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/18925e1293958c56dfb78429652f75822aaf06f2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a9d50505e363e3ea9556287a9d3c965de7180e7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1b67f89831b0d4d9ec894fe5528dec210e380007.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1d5dd8df5891b2b4b91e03ae4802307b5d703ea6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1dc70150f3f26b219d0aa1f4834836f9488edef0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1f4847fb091b63aad493c9455303a82acae0de4d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/202b0862d6ebf25d7a82714881995c5d384cd7d8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/208443578c41ec408aa2be67fc0bea6c6765c38f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/20c3c5eddf851ac644a3529c05d29f7d16d8a5c6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2133d6b54d9e3145914c0026f3a16e403d7b7df6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/219b38700e92c9ad8da9101f183f23d36155ef6d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2271b7fbbace148cfd94bc3250ad024fe17453e8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/22a64ad2b9917a8b9318e964556eb4a509f42856.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/236d7e25ad55a4e10ac8d9b11d93503d0af0303e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/24394f5d27e90b4f1019c13c30e16af4111dc4b5.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/243e0c4bf2bd4c90d9ace29d846fe07c48c7edcf.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/24d4eff70a4fdfbc13d48e35f6e4a30bada75e61.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2754008bae36f983ae9c6695dec5f9a9a85e8be1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/28fa1e97fcdcd0eb220c6dbb608bfad34327d8b7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2bb2fd0b50575c14b5f53d8b9c2e395f95942205.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2bc7a2cf7f079038acba3d108e6b1837c9beb92f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e3f8e39b979af1a617e74d2075fcca174e64627.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e7c540ab7b1e3ddd6fe0eaf6b204e7c16007683.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2ea6dbb04f9e9c3ffd5064ed09ba786dc9ed650a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2eb31fb679d735a98ce3953fcc16a7f8963dc24f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2ecaec2355e3d38692fc52efe7f636576daa1426.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2f9d196f9bed69187518f5bf66750d0df7f657d1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2fc5737f362f93254861d51e1232e2aa6f3b85eb.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/302d0f30b5f9912b6502fd3d30dc831f8d3a3b9e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/33055a2e5dc2c0ebd973ecee436a32f68927fc55.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/35a92c7c03aae6a7cd4f380f81b1e91d6bbe7154.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/35b2eccdc5e242f3783c33016181abeb83d753ec.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/360eef0730698bd6fdfa1ec3c6fd74091699b64a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36ab26dc6f6821ad0708f61c8c36731963978e44.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36dafe8284b4aa35f935671a99ac086a4fb0e9c5.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/36eff96fb63e9b0baab34f637e6563777b2c2ad3.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/373623e49738c878e3f4e85d7fb2257b60b3de46.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/379bc8b3a222cfc50f1a13602d8df20a1048a3b9.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b28a548e9454e4c3268c27e27b4c19926a784d8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b7b6134714be678c294841c294a6cb944aaf890.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3c3b0b8759b179161ec0cc49df60ea5190767018.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3cde24eeca5e90bd04a3438018fa1aee205445f9.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3d7fdc1c7ef7c021d2deacbe93713a15d5870d1d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3ea0cde50721024ecf637a064a81994b9ab9c6f1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3f68dd8f809d7d9d5ab6ee148f98fe26f60b0946.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/40557fc093fe1dfe5f0ba63ce9a1c8a039ae98e1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/408d755451bb435bab5e28b2ee127e2843042abf.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/409434509700d3b4a133c46c5192670e0d6bc771.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/40e7781873c6b843ed32a7f398e2003d2b68db95.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/411d8059d927a23f714abe35deda8f5145649fbf.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/415bae41700492dde12c9a9098c7524f5647a968.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/41d6bbafa8a9d4c019bb1d589d213e83662dddf5.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/428b9651723b175029374053076c18ba64deabb4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/43d1ad7578fd89ba000c2aed4960542252ebb8b7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/44118d37c96655a62203f0a0cde7063b60a3debe.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4465092b32caab862f16595e91720cdc3faebe5a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/448ef0d7c690ad410e5074ee130645f001995859.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/45ef590a658d594cbaa14429e7e9511c2087bb1a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/47059f3f5383a38531041af71fda551184bf7520.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/472d638f8400966bf4d2e4951c2f7417a80127f8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4731069b02df4104d1382c5741df51fc7be115b4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/476e4dbce2aa1c34f94796227c09199ce2fde5e7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/482db195664c7d32e7b324e55e8fe482242c127c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/49d6ddca84080413b1fe755a5ab36a088a2dbf37.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4ab39603382665f179c464f6d11f4e6cfd057a26.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4adbe7639ca28eac2bbe762a21843d61defa047c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4bebbcfb1d58cea6611a15924b23434d01f9dbc6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4e43ebeb3dd929ecc9eb917b3c7c16b13d59cf4a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4e5184254e19141eeac9dec39b91457aa9dba6f3.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4ec72574881808820a0b843998b293fbf47bba34.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4fbc5cd261fab9565720d252f6648bb734bdb3fb.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5047957f6509324689279fa9a4a467a7dde9dd70.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/50b8e68e710ce9e7236db66b653fd21fbef29bc0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5182d26de29fc4bad15234dde2408a829d696d9c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/518b74058329ac15e59e56549649184fe8982d86.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/536e1a3a46d33e555d67b6a318921458af82636e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/53771532d9acc6ef148680bc7d8fd1cebd38ee76.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54f3acac5b2dfa9a6f708bd00fb9405fb339541b.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/550402c8a73bcbf37c94e6d68f798779f4baf952.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5519ffe28d37f3cbf48b5f52b3cbf0a4f15fef8a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5648eba360dfd5979a5877a2b02475c0166d5439.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/56667dc48430e64af8420e14b26724c7cbd1b04e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/592036e25c48d3f096ccf3aabc17a507fdbe96b0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5a2b9f8e4496157545ba6fbf4e4580669c4e71cd.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5b22cfccf8633820bd76a5d653a4ce9ae670bd52.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5cf0be0b9f74f46f56a404be8732a5ab10580241.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5e1794bb8b3fde4d528f787c8b4950454547ba3a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/601d6f471c7d01619887f2fd49a63173fa48a363.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/609732a2844eef0b1260852c65c16eef6e032f15.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6103b22eb75580dcd52fa3c7560b1f6a91fafd51.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/61302afe934971cd8b1d342f189f5ea726b7325e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/616996da57ba10cc95a9758b94adff1f30955739.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/62afb8c27b8ae7ebadc3409810108c0c928fb99a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/62afeac75f972fa611860b68a3f9c69bbb3a0589.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/63f99b34ac6e7cfa79427f39cabfde11aa85c017.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/65ae4c81e860e91f3246692e42f2fdc3df0ab06a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/65da11d6737b6ff52495d899cc0180da0c4c2901.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6665021ba67a78447b0b8c55193eafb681fe6005.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/694d5a012df7e3576207ef2aa92aad7524a2f31f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6979a552e25f776efed9a86ab1ae40f8d5f16519.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6b250bae020e439e8b3ee09f4cce4b7c585880a8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6bf205568a8ef2754ce771dbada7418458c099aa.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6c26c4d7ed6949556246932bf8334fbed6843bd2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6c2835bf6ac4b2ca15019114b5c7b1cc4d7663f7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6cf2adabf4ad621beadb0038e254e64e8c1738be.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6ee09bb36d8da28b017d479df27f3751b1d35b1e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7005aac7c5294f803e0f01f2ad73d4ad43b6f551.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7159fb70f9d9e2ef7d62eb3b2c368b75be812b3c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/728b91e743cb60055a4a91606ac80f4dc98eeedb.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75bc1bcf9bbdcbf0767a0895bd17e467d9629eab.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75c491c4324f1cca31957a442d98f6aaa5abd708.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75f3b34946b8917e2e157467b53a1fa4e511acb4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/773246a75cbf27ba8545c025898668452d470aea.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/796b9acb4dcf4d8c376205c34eba9506cc144bff.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7971c635d109d5614b13505788f19b9bc45f4765.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a3abc66bdc3ffb91af8919ebbe8fbcb49a85214.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a99e7195425662409a3db700a2faca4ceca518a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a9b9a4135fcd3c5cbfc9a497b69ad8809ff9127.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7ba376909b888576fc7932fbbb3cf3fa3ef2b9d3.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7c1ee62856d9f1b79edf6cde3518c4879abda09b.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7ccaad0a4ed5baa38aa8b23d3851c70100f307e4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7cea4f623c95cf21aac998f3bea20aa8f380e9a2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7f8ec2efc3668e77233c80ab08c50a2857ef6e20.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/827d2ae2ccc83cd5c1883791fb2c82f53ce35fe4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/837a6294498a33c0476e5cf8d5eb79a5a8ada3ef.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/83fd5e7ef5fb485b0c760fe62955a15806195c32.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/850bfb07ac72be3d66404cb4f4959d2cd4eb6d8a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8803fa4a95ef947075e4bc95dfd81c8b01bbc354.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8b07ed3aecdc0bee2a9c701becfd2b6595d63a27.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8cc4d3e7c57185ee149a5b5728b84c601af5b339.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ce888f99a08bd6d0409e3c2fa41cfc31c11dace.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8d4140b93ac066d655387564395ad5db50f141d6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8d424fdaffda23e50b43ba954069ffe84d27aec2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ec30079c829abf1998e6fae0dc0e872e5455494.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ff3f625d92be40977d08031824eca7b4de2a175.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/902428df9eb0f2e5673baa5f10954b6d52133f66.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/93bd91e2bb45b83b7158c8baf16c8807342ad7b2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9490fb2efb74e9ff059b2a1a625e93a6ad732f81.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/99c34299b5489b7188909a4a913ab20b58b120ef.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9a80185c4c58fe9d8b0b9aebb4d2e88268815d7f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9a8c3e159d013874809090bdf6ce93f0166a2e42.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9ae497c12b671f0d1d81030e842493d91312327f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d9a49d5eaf516655f38426e98c46352821d8791.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a419228e75d8d6db7d0a9e771748508915ba94f9.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a63b3059059d0fc0a49ffeda0d576810ff4fb601.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a7740e4589105ae3d7dcd42c675143d02c99b934.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a7a5dc81f62f6da0d737c00b8a253b89b7be9fa8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a7d1617c1c448bd73effa65159c5715e20a98441.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aa93b3926c910b20b83af2242e7004dcbaad09a4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/addd54b46615ec758e76157d973e969b581d76af.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0397967bb7fbc0d7bf299dbd272b5d70ef2b3ac.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b2cd117fae08b4573b47ce6e3c9f8caf31c757d4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b36b009198add1c6f1235da102018570783940f1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b387d022ce3a0d010939b13e1df5dd2bef8e66ea.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b4713c6d936d055784457bb9fa1862b52a90b242.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b4c7bae40ed7b62c76361fc17df5134381975209.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b55becf4a19578e7050dd49fefad7fe498222ab7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b6028d099535fe1673365a5400badbd27e38f8c1.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b7e5359cf8cca31184946dd0ad00932f74579db4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b823803e2b82ad5496f1a15e91ebca8c453a560a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ba1f2db9701bb45a6d590d98ca639d384c36b0b7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be9c16592f257504d5ef20d5313e5e4d71669339.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bed8cac7cdbbae6149c1afece5b26760855ccf36.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bf478c0352d9abb7cee358a2738eb862d01eb4e8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c047dfa43bd08974ad76d0551ebbd8d6740a3cb9.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c22304c9b1a2b098edd647fb691d651648693f07.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c27fd2b9f0e33d008e4cb9300dc01a53132e74f0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c366f5ed6295f54e6e850a76c836d4c813300435.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c417960b7d7430c9c96801624fc3614b66f3a079.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c417a25db7ba276f74717c690e1824f6d51e3fff.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c522d13bb2cbfc0d4f50279893aaa7338be21e4f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c6d7d0292f36b2e352deff90b260a54c673a65af.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c7003c2b5e1822e8bddd1ff525d327cf31814853.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c70ffa60260296a66a2002eeba780c4bb98899e5.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c72cde16276350fb7565824905a0652a51fd3e10.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c92f6042b35bf131b328a530ef50c8b60453721d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c9375a2bbb2730966cb5acd9b107fabb862be082.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c95b91bc24c31723a0256101a90970241d3c2eca.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c9e1c252b576e595b9738afb94bc578f8fb18eb6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca006e6a14f3695de14c2ea3305cd324fcb6b4db.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca487f18a3c1c539056672873c8577b0e580da6c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ca4f86f72462ba9e1c2eca7c24aa3a6132c01d6b.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cae87d921d8f018323f9635f68222923b2f4e31c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cc2820c6e6ed1dc9c4bfe6384cdea99e268e57b7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cd21008fc1b6fb5658a98af30b82b76beb47e043.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cdf52ef5aed26aee15725a9664df160db38824ed.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cf7194f5431983540ade909ae789f3c6a55c1105.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d0a872e19ff7f0e2b804aeef35d7473566abcb82.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d0d167e8221d08ea4fe73ef2b50394ad7b79dae2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d11d76103b334d3b71d959290f70f59176b83049.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d1c6bad2caa91e3c90a844c2e4f8580d392b425f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d252c2bca2c9853c42e17fb5bc9f980d90cd7c81.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2e9ca81b01094228dbc393cea6dd38a44b80826.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2edf106c26b4651e6015c1b598bf9ea28de2a64.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2f9313c353e1fed8c5a30e9fffe75ffdfd21e05.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d340faa1186fd3c25a19a94a33d2167b117614a9.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d3825b20d9f7a9b160944ee69331d52201d15fec.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d3f4f18a9ca477d08c428e357b234651848d82f6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d414fea800d66444a63d5b14777f3e022d18e441.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d49b7a148d32b7c2286947569c58fc4d9259d440.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4fc2ca4e130d5354aa77c0eb6c7a373be20043d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d7afa2768b59e3193dd1c14235a34a708b8d1fd8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d9f4c0b2ba9078a1075f6e08258df3878a13906c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/da39eba94240a4365a3bebbaebf3e446b2265ed5.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dac8d1b885a813c8bd7d957bd0e502cffddfec99.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dc450702362ca843d1e796bb8f8c69a18b645a17.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ddc7e8e28c7a0c8db3d09f48c915e7acc1b7816f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/df0ea7d7e1fff7b22085ee6dd8c23b65b583d345.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e0bfe1c1053732f08d39fca479d8278fce50d648.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e0f06cc6e96406b5e48a1ad6b83c6848ae014fbe.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e25af9380c1f6464174ea198c6a3fef1d33aadb7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e26da5832e686f638a5ec8c34efe58faec271d3b.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e35ff83bf7168c39b5c2b24ddc2d34128af1bcad.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e388ebc2ff295b09ae05b067fc375a79a94f924c.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e50889d8fe2fffcd52907c88c228ff5ec5a19cbf.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e522e9a6e205ca3df762ca7d59e4565dfd958134.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e6825f81fcd1e8c5f38feccd1c42fe7cc117d2e0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e7169d4f1168003530d6a3acb80ca78088f7f035.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e847dc562de0209f454b5fa3b059a6b64b417b27.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e9fe2c6bfe7e25e2750bfa6c0bce422f991abbd6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea252bc6569e0d788c39c2dee9f7a520302ce12f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ea39250cd7763c026ad5b9e4e274aa217b9b122f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eb53c773d2e530e049e041439482940f8aca1888.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ebb641fcfbe740af4cef793e4bb4bfa6d051f9a7.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ecf1b0244e56160dfa837af1f0ffd5c2d9097856.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed24a51b4760a4d9e2e8af40988796639eabf82d.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ed54987deffbcbc73d6c6bfbbadf40eaed7adaef.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eecb95d32fd0bc8d1a91dafb1186d700e99bf6c2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ef84a8c992f11b91047478584bd0cc8fd5a3a294.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f4b88411f5355471d2dd88b20a4f75d013b31dc2.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f50f736594888925ff89771b995c34b4a6e545f4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f94dd5c6be2a327c81e6f54679039d07ddfe0005.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f953574d2630e40f7f4b719a1f29b0597b68cf9a.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fa971b0aacf5f59739b1022b0ebd682722e99fcf.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fac63d15bbbf6b47b97939ac6ecd230796556552.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fc926225ebeb1d1cfb17e3c6b0d049c8053f491f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fd58f37f24dbbb991933801d5864cb57bfbfe7b6.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fdd4f9eb4847d5c287caf47333d8af2ac15fec0e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fecb9e02b9eafb90b6752d627246969d65085da4.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ff68dc9032551fe525cf30a06a8668248104468d.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/30e937a735cba253366d37cd1904c822b3209bd0.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/40c665f609d886454eb1e3e7f5c548e43dda4306.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4d368a8580800dcccde0de0d006842c37b8827c4.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/90c60812ee6070e6cf0fa124dc58831646dc06c4.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/916c5ec23fc00b1cc5b9faa126df5e2c929b8876.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a2fb00040a2204446f026f3e3d89f1516f71eb77.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aa726e52d45ed77fb8e323ba6564da46dd2705aa.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/efdb10e70cc1af8a5ad89a085affbbf7f89b7e4e.json.gz" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn-dynamic-import/node_modules/acorn/dist/.keep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn-globals/node_modules/acorn/dist/.keep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn-jsx/node_modules/acorn/dist/.keep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/.keep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/autoprefixer/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/autoprefixer/node_modules/.bin/browserslist" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/coa/README.ru.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/coa/coverage/sort-arrow-sprite.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/detect-port-alt/logo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv-expand/dotenv-expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/espree/node_modules/.bin/acorn" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fileset/test/fixtures/foo.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/.node" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/build/Release/fse.node" />
@@ -286,7 +30,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v47-darwin-x64/fse.node" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v48-darwin-x64/fse.node" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/lib/binding/Release/node-v57-darwin-x64/fse.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/boom/images/boom.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/images/hawk.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/hawk/images/logo.png" />
@@ -298,7 +41,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/tar/test/fixtures.tgz" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/growly/example/cake.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/growly/example/muffin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/node_modules/.bin/uglifyjs" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest/node_modules/jest-cli/build/assets/jest_logo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-base64/1x1.png" />
@@ -312,8 +54,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/MacOS/terminal-notifier" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/Resources/Terminal.icns" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/Resources/en.lproj/MainMenu.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/detect-libc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/nopt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-discard-overridden/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/public/favicon.ico" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/readdirp/test/bed/root_dir1/root_dir1_file1.ext1" />
@@ -428,20 +168,14 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/serve-index/public/icons/page_world.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/spdy-transport/coverage/lcov-report/sort-arrow-sprite.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stream-http/test/server/static/browserify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/node_modules/js-yaml/node_modules/.bin/esparse" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/node_modules/js-yaml/node_modules/.bin/esvalidate" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/term-size/vendor/macos/term-size" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/term-size/vendor/windows/term-size.exe" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tr46/lib/.gitkeep" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/watch/test/d/d/t" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/watch/test/d/t" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/ssl/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/movie.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/zopper.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/babylon" />
@@ -490,7 +224,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/which" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/abab/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/abab/LICENSE.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/abab/README.md" />
@@ -1518,8 +1251,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/plugin-pass.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/lib/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/babylon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/json5" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/source-map/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/source-map/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/source-map/README.md" />
@@ -1552,7 +1283,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-eslint/babylon-to-espree/toToken.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-eslint/babylon-to-espree/toTokens.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-eslint/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-eslint/node_modules/.bin/babylon" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-eslint/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/lib/buffer.js" />
@@ -1573,7 +1303,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/lib/printer.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/lib/source-map.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/lib/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/source-map/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/source-map/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/source-map/README.md" />
@@ -1664,8 +1393,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/exists.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/read.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-loader/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-messages/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-messages/README.md" />
@@ -1830,7 +1557,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/node_modules/.bin/regjsparser" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-exponentiation-operator/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-plugin-transform-exponentiation-operator/README.md" />
@@ -1902,7 +1628,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-env/lib/targets-parser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-env/lib/transform-polyfill-require-plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-env/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-env/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-env/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-flow/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-preset-flow/README.md" />
@@ -1924,7 +1649,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/lib/browser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/lib/cache.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/lib/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/core-js/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/core-js/Gruntfile.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-register/node_modules/core-js/LICENSE" />
@@ -5118,7 +4842,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/node_modules/.bin/babylon" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/package-lock.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-template/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/.npmignore" />
@@ -5148,7 +4871,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/lib/scope/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/lib/scope/lib/renamer.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/lib/visitors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/node_modules/.bin/babylon" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/package-lock.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-traverse/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/babel-types/.npmignore" />
@@ -5280,7 +5002,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/lib/mdns-server.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/lib/registry.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/lib/service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/node_modules/.bin/multicast-dns" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/test/bonjour.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bonjour/test/service.js" />
@@ -8347,7 +8068,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/lib/loadRc.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/lib/parseJson.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/lib/readFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/node_modules/.bin/js-yaml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/node_modules/minimist/.travis.yml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/node_modules/minimist/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cosmiconfig/node_modules/minimist/example/parse.js" />
@@ -8385,7 +8105,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/make-hash.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/md5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/node_modules/.bin/sha.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hash/test.js" />
@@ -8393,7 +8112,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hmac/browser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hmac/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hmac/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hmac/node_modules/.bin/sha.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/create-hmac/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" />
@@ -8406,7 +8124,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/node_modules/.bin/which" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cryptiles/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cryptiles/LICENSE" />
@@ -8537,7 +8254,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/lib/parseValues.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/lib/stringify.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/lib/stringifyValues.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/node_modules/.bin/cssesc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/node_modules/regexpu-core/LICENSE-MIT.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/node_modules/regexpu-core/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-selector-tokenizer/node_modules/regexpu-core/data/character-class-escape-sets.js" />
@@ -8636,7 +8352,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/autoprefixer/lib/transition.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/autoprefixer/lib/utils.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/autoprefixer/lib/value.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/autoprefixer/node_modules/.bin/browserslist" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/autoprefixer/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/browserslist/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/cssnano/node_modules/browserslist/LICENSE" />
@@ -9319,7 +9034,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/defined/test/falsy.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/del/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/del/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/del/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/del/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/del/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" />
@@ -9409,7 +9123,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/lib/dh.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/lib/generatePrime.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/lib/primes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/node_modules/.bin/miller-rabin" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/diffie-hellman/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/dns-equal/.npmignore" />
@@ -10818,7 +10531,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/escope/third_party/espree.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-config-react-app/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-config-react-app/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-config-react-app/node_modules/.bin/eslint" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-config-react-app/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-import-resolver-node/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-import-resolver-node/README.md" />
@@ -10828,8 +10540,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/node_modules/.bin/eslint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-loader/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-module-utils/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-module-utils/ModuleCache.js" />
@@ -10903,7 +10613,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-flowtype/dist/utilities/iterateFunctionNodes.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-flowtype/dist/utilities/quoteName.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-flowtype/dist/utilities/spacingFixers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-flowtype/node_modules/.bin/eslint" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-flowtype/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/LICENSE" />
@@ -10955,7 +10664,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/memo-parser/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/memo-parser/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/memo-parser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/node_modules/.bin/eslint" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/node_modules/doctrine/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/node_modules/doctrine/LICENSE.BSD" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/node_modules/doctrine/LICENSE.closure-compiler" />
@@ -11169,7 +10877,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/lib/util/isNonInteractiveRole.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/lib/util/isPresentationRole.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/lib/util/schemas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/node_modules/.bin/eslint" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/scripts/addRuleToIndex.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-jsx-a11y/scripts/boilerplate/doc.js" />
@@ -11341,7 +11048,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/lib/util/pragma.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/lib/util/variable.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/lib/util/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/node_modules/.bin/eslint" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/node_modules/jsx-ast-utils/.babelrc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/node_modules/jsx-ast-utils/.eslintignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react/node_modules/jsx-ast-utils/.eslintrc" />
@@ -11793,8 +11499,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/.bin/esparse" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/.bin/esvalidate" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/.bin/js-yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/ansi-regex/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/ansi-regex/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/eslint/node_modules/ansi-regex/package.json" />
@@ -12065,7 +11769,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/OrderUndefinedError.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/lib/helpers.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/dist/loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/schema/loader.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/extract-text-webpack-plugin/schema/plugin.json" />
@@ -12346,7 +12049,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/xhrSimpleDataSerializer.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/xhrSimpleDataSerializer.js.flow" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/module-map.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/node_modules/.bin/loose-envify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fbjs/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/figures/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/figures/license" />
@@ -12363,7 +12065,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/cjs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-loader/dist/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-loader/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/file-loader/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/filename-regex/README.md" />
@@ -12540,6 +12241,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.cc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/detect-libc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/mkdirp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/nopt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/rimraf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-conv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-sign" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/sshpk-verify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/.bin/uuid" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/abbrev/abbrev.js" />
@@ -13639,8 +13351,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/src/methods.cc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/src/storage.cc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fsevents/src/thread.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fstream/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fstream/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/function-bind/.editorconfig" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/function-bind/.eslintrc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/function-bind/.jscs.json" />
@@ -13706,7 +13416,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/global-prefix/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/global-prefix/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/global-prefix/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/global-prefix/node_modules/.bin/which" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/global-prefix/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/globals/globals.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/globals/index.js" />
@@ -14129,7 +13838,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/node_modules/.bin/he" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/sample-cli-config-file.conf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-minifier/src/htmlminifier.js" />
@@ -14145,12 +13853,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/compiler.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/errors.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/lib/loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/.bin/html-minifier" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/loader-utils/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/loader-utils/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/loader-utils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/loader-utils/node_modules/.bin/json5" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/html-webpack-plugin/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/htmlparser2/.gitattributes" />
@@ -14316,9 +14021,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/lib/signer.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/lib/utils.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/lib/verify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-conv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-sign" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-verify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/http-signature/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/https-browserify/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/https-browserify/index.js" />
@@ -14469,7 +14171,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invariant/browser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invariant/invariant.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invariant/invariant.js.flow" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invariant/node_modules/.bin/loose-envify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invariant/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invert-kv/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/invert-kv/package.json" />
@@ -14739,8 +14440,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/lib/run-cover.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/lib/run-instrument.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/lib/run-reports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/.bin/js-yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-api/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-coverage/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-coverage/LICENSE" />
@@ -14764,8 +14463,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/dist/read-coverage.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/dist/source-coverage.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/dist/visitor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/babylon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/LICENSE" />
@@ -14778,7 +14475,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/lib/tree.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/lib/watermarks.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/lib/xml-writer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/node_modules/has-flag/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/node_modules/has-flag/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-report/node_modules/has-flag/package.json" />
@@ -14798,8 +14494,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/lib/pathutils.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/lib/source-store.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/lib/transformer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/debug/.coveralls.yml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/debug/.eslintrc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/debug/.npmignore" />
@@ -14860,7 +14554,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/lib/text-lcov/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/lib/text-summary/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/lib/text/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/node_modules/.bin/handlebars" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/istanbul-reports/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-changed-files/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-changed-files/README.md" />
@@ -14868,9 +14561,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-changed-files/build/hg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-changed-files/build/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-changed-files/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/is-ci" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/jest-runtime" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/which" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-config/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-config/build/constants.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-config/build/defaults.js" />
@@ -14913,7 +14603,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-haste-map/build/lib/getPlatformExtension.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-haste-map/build/types.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-haste-map/build/worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-haste-map/node_modules/.bin/sane" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-haste-map/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-jasmine2/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-jasmine2/build/ExpectationFailed.js" />
@@ -15016,7 +14705,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-util/build/installCommonGlobals.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-util/build/setGlobal.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-util/build/validateCLIOptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-util/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-util/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-validate/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jest-validate/README.md" />
@@ -15173,8 +14861,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/set.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/str.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/timestamp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esparse" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esvalidate" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsbn/LICENSE" />
@@ -15502,8 +15188,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/web-idl/DOMException.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/lib/jsdom/web-idl/dom-exception-table.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/acorn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/escodegen" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/esgenerate" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/AUTHORS" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/CHANGELOG.md" />
@@ -15541,10 +15225,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/src/util.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/src/walk/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/acorn/src/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/http-signature/node_modules/.bin/sshpk-conv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/http-signature/node_modules/.bin/sshpk-sign" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/http-signature/node_modules/.bin/sshpk-verify" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/node_modules/request/node_modules/.bin/uuid" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsdom/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsesc/LICENSE-MIT.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsesc/bin/jsesc" />
@@ -15781,10 +15461,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-cache-dir/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-cache-dir/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-cache-dir/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-cache-dir/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-cache-dir/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-fs-cache/node_modules/find-up/index.js" />
@@ -15818,7 +15496,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-utils/lib/parseString.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-utils/lib/stringifyRequest.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-utils/lib/urlToRequest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-utils/node_modules/.bin/json5" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/loader-utils/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/locate-path/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/locate-path/license" />
@@ -17675,7 +17352,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/memory-fs/lib/MemoryFileSystem.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/memory-fs/lib/join.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/memory-fs/lib/normalize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/memory-fs/node_modules/.bin/errno" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/memory-fs/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/meow/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/meow/license" />
@@ -18016,8 +17692,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/lib/checkGrowl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/node_modules/.bin/semver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/node_modules/.bin/which" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/notifiers/balloon.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/notifiers/growl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/notifiers/notificationcenter.js" />
@@ -18028,10 +17702,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/PkgInfo" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/Resources/en.lproj/Credits.rtf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/Resources/en.lproj/InfoPlist.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/rc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/rimraf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/AUTHORS" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/README.md" />
@@ -18042,7 +17712,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/safe_format.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/typos.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/lib/warning_messages.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-path/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize-path/README.md" />
@@ -18262,7 +17931,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/p-try/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/package-json/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/package-json/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/package-json/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/package-json/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/package-json/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pako/CHANGELOG.md" />
@@ -18429,7 +18097,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pbkdf2/lib/precondition.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pbkdf2/lib/sync-browser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pbkdf2/lib/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pbkdf2/node_modules/.bin/sha.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/pbkdf2/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/performance-now/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/performance-now/.tm_properties" />
@@ -18472,7 +18139,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/lib/portfinder.d.ts" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/lib/portfinder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/node_modules/async/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/node_modules/async/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/portfinder/node_modules/async/README.md" />
@@ -20103,7 +19769,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/dist/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/dist/lib/url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/node_modules/.bin/svgo" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/node_modules/has-flag/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/node_modules/has-flag/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/postcss-svgo/node_modules/has-flag/package.json" />
@@ -20508,7 +20173,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/factoryWithTypeCheckers.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/lib/ReactPropTypesSecret.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/node_modules/.bin/loose-envify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/prop-types.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/prop-types/prop-types.min.js" />
@@ -20718,8 +20382,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/inquirer.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/launchEditor.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/launchEditorEndpoint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/node_modules/.bin/detect" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/node_modules/.bin/detect-port" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/noopServiceWorkerMiddleware.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/openBrowser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/openChrome.applescript" />
@@ -20740,7 +20402,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/node_modules/.bin/loose-envify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/server.browser.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-dom/server.js" />
@@ -20879,10 +20540,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.dev.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.prod.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/eslint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/jest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/webpack" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/webpack-dev-server" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/.jshintrc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/promise/LICENSE" />
@@ -20944,14 +20601,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.test.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/registerServiceWorker.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/.bin/loose-envify" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" />
@@ -21027,7 +20682,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/recursive-readdir/test/testdirBeta/ignore.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/redent/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/redent/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/redent/node_modules/.bin/strip-indent" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/redent/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/redent/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/reduce-css-calc/CHANGELOG.md" />
@@ -21114,7 +20768,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/data/character-class-escape-sets.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/data/iu-mappings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/node_modules/.bin/regjsparser" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regexpu-core/rewrite-pattern.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/CHANGELOG.md" />
@@ -21122,7 +20775,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/base64.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/node_modules/.bin/rc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/registry-url.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/test/auth-token.test.js" />
@@ -21130,7 +20782,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/yarn.lock" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-url/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-url/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-url/node_modules/.bin/rc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-url/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/registry-url/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/regjsgen/LICENSE.txt" />
@@ -21286,7 +20937,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/querystring.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/redirect.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/lib/tunnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/uuid" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/request/request.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/require-directory/.jshintrc" />
@@ -21513,7 +21163,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/selfsigned/test/tests.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver-diff/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver-diff/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver-diff/node_modules/.bin/semver" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver-diff/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver-diff/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/semver/LICENSE" />
@@ -22106,8 +21755,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/lib/svgo/plugins.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/lib/svgo/svg2js.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/lib/svgo/tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/node_modules/.bin/csso" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/plugins/_collections.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/svgo/plugins/_path.js" />
@@ -22159,8 +21806,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/Makefile" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/node_modules/.bin/sw-precache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache-webpack-plugin/yarn.lock" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/LICENSE" />
@@ -22168,7 +21813,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/cli.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/lib/functions.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/lib/sw-precache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-precache/service-worker.tmpl" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sw-toolbox/LICENSE" />
@@ -22246,7 +21890,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tapable/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tapable/lib/Tapable.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tapable/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/tar-pack/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/term-size/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/term-size/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/term-size/package.json" />
@@ -22449,7 +22092,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/dist/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/lib/post_install.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/uglifyjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/node_modules/source-map/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/node_modules/source-map/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/uglifyjs-webpack-plugin/node_modules/source-map/README.md" />
@@ -22566,7 +22208,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/node_modules/.bin/mime" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/options.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-loader/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/url-parse-lax/index.js" />
@@ -22740,8 +22381,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/PathJoin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/Shared.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/.bin/mime" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/README.md" />
@@ -22768,10 +22407,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/lib/polyfills.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/lib/util/addDevServerEntrypoints.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/lib/util/createDomain.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/ansi-html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/import-local-fixture" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/internal-ip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/camelcase/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/camelcase/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/camelcase/package.json" />
@@ -22798,7 +22433,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/debug/src/node.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/del/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/del/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/del/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/del/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/del/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/globby/index.js" />
@@ -22876,7 +22510,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/lib/plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/.bin/webpack" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/CHANGELOG.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/LICENSE" />
@@ -22909,7 +22542,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/lib/util/assign.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/lib/util/utimes.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/lib/walk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/node_modules/.bin/rimraf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/fs-extra/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/jsonfile/.npmignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack-manifest-plugin/node_modules/jsonfile/CHANGELOG.md" />
@@ -23211,8 +22843,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplate.runtime.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplatePlugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerTemplatePlugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/json5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/camelcase/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/camelcase/license" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/camelcase/package.json" />
@@ -23441,7 +23071,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/lib/farm.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/lib/fork.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/node_modules/.bin/errno" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/tests/child.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/worker-farm/tests/debug.js" />
@@ -23469,7 +23098,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/write/LICENSE" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/write/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/write/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/write/node_modules/.bin/mkdirp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/write/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdg-basedir/index.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/xdg-basedir/license" />
@@ -23568,22 +23196,17 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/node_modules/string-width/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/yargs/yargs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Actions/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Reducers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Routes.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Routes.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Profile.js" afterPath="$PROJECT_DIR$/src/components/Profile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/logo.svg" afterPath="$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.test.js" afterPath="$PROJECT_DIR$/src/App.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23596,8 +23219,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#42#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/Routes.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -23629,6 +23322,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -23643,7 +23337,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -23654,6 +23347,14 @@
     <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -23667,6 +23368,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -23677,32 +23440,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519267229036</updated>
-      <workItem from="1519267231076" duration="92000" />
+      <workItem from="1519267231076" duration="199000" />
+      <workItem from="1519267562937" duration="581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92000" />
+    <option name="totallyTimeSpent" value="780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27260274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -23715,5 +23479,54 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#42#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
