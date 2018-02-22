@@ -32,7 +32,7 @@ class App extends Component {
         // console.log(response.Search,that.state.page,"inside function------------>");
 
         if(response.Response === 'False') that.setState({ error: response.Error });
-        else if(that.props.list && that.props.list.length + 10 > response.totalResults)
+        else if(that.props.list && that.props.list.length + 10 > response.totalResults && !that.state.isSearching)
         {
           // console.log(1);
           that.props.actions.appendList(response.Search);
