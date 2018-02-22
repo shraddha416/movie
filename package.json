@@ -20,7 +20,7 @@
     "eject": "react-scripts eject"
   },
   "description": "",
-  "main": "index.js",
+  "main": "public/index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shraddha416/movie.git"
