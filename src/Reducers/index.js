@@ -7,11 +7,16 @@ const initialState = {
 
 const movielist = (state = initialState, action) => {
   switch (action.type) {
-    case 'ADD_MOVIE_LIST':
-      return [
+    case 'ADD_NEW_MOVIE_LIST':
+      return {
         ...state,
-        action.payload
-    ]
+        list: action.payload
+      }
+    case 'APPEND_MOVIE_LIST':
+      return {
+        ...state,
+        list: state.list.concat(action.payload)
+      }
     default:
       return state
   }

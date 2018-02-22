@@ -11,7 +11,6 @@ class App extends Component {
     super(props);
     this.state = {
       page: 1,
-      list: [],
       key: '',
       error: '',
       endofSearch: false,
@@ -25,18 +24,33 @@ class App extends Component {
     let that = this;
     let request = new XMLHttpRequest();
     let url = `http://www.omdbapi.com/?apikey=80d8aa1e&s=${key}&page=${this.state.page}`;
+    let page = this.state.page;
+    // console.log(that.state.page,"inside function------------>");
 
     request.onreadystatechange = function () {
       if (this.readyState === 4 && this.status === 200) {
         let response = JSON.parse(this.responseText);
-        console.log(response.Search,"------------>");
-        if(response.Search) that.props.actions.addList(response.Search);
+        // console.log(response.Search,that.state.page,"inside function------------>");
+
         if(response.Response === 'False') that.setState({ error: response.Error });
-        else if(that.state.list && that.state.list.length + 10 > response.totalResults)
-          that.setState({ list: that.state.list.concat(response.Search), error: '', endofSearch: true });
-        else if(that.state.isSearching)
-          that.setState({ list: response.Search, error: '', isSearching: false });
-        else that.setState({ list: that.state.list.concat(response.Search), error: '' });
+        else if(that.props.list && that.props.list.length + 10 > response.totalResults)
+        {
+          // console.log(1);
+          that.props.actions.appendList(response.Search);
+          that.setState({ error: '', endofSearch: true });
+        }
+        else if(that.state.isSearching || that.state.page === 1)
+        {
+          // console.log(2);
+          that.props.actions.addNewList(response.Search);
+          that.setState({ error: '', isSearching: false });
+        }
+        else
+        {
+          // console.log(3);
+          that.props.actions.appendList(response.Search);
+          that.setState({ error: '' });
+        }
       }
     };
 
@@ -48,7 +62,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    if(this.state.list.length<1) this.getList(this.state.key);
+    this.getList(this.state.key);
   }
 
   handleChange(event) {
@@ -62,8 +76,7 @@ class App extends Component {
 
 
   render() {
-    console.log(this.state.list,this.state.page,this.state.error);
-    console.log(this.props);
+    // console.log(this.props.list,this.state.page,this.state.error,"-------------->");
     return (
       <div className="App">
         <header className="App-header">
@@ -74,8 +87,8 @@ class App extends Component {
         </header>
         <div className="mainContainer">
           {
-            (this.state.list && this.state.error === "") ? (
-              this.state.list.map((res, index) => {
+            (this.props.list && this.props.list.length>0 && this.state.error === "") ? (
+              this.props.list.map((res, index) => {
                 return (<Link to={`/${res.imdbID}`} key={index.toString()}>
                   <div className="card">
                     <img src={ res.Poster} height="150px" width="150px"/>
@@ -88,7 +101,11 @@ class App extends Component {
           }
           {
             (this.state.endofSearch) ? null:
-              <button onClick={()=> { this.setState({ page: this.state.page+1 });this.getList(this.state.key)}}>Load More</button>
+              <button onClick={
+                ()=>
+                  {
+                    this.setState({ page: this.state.page+1 });this.getList(this.state.key);}
+                  }>Load More</button>
           }
         </div>
       </div>
@@ -98,7 +115,7 @@ class App extends Component {
 
 export default connect(
   state => ({
-    list: state
+    list: state.list
   }),
   dispatch => ({
     actions: bindActionCreators(actions, dispatch),

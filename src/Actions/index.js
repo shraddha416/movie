@@ -1,9 +1,16 @@
 /**
  * Created by zopper on 20/02/18.
  */
-export function addList(list) {
+export function addNewList(list) {
   return {
-    type : 'ADD_MOVIE_LIST',
+    type : 'ADD_NEW_MOVIE_LIST',
+    payload: list
+  }
+}
+
+export function appendList(list) {
+  return {
+    type : 'APPEND_MOVIE_LIST',
     payload: list
   }
 }
