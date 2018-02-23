@@ -23,7 +23,7 @@ class App extends Component {
   getList(key,page = undefined) {
     let that = this;
     let request = new XMLHttpRequest();
-    let url = `http://www.omdbapi.com/?apikey=80d8aa1e&s=${key}&page=${page || this.state.page}`;
+    let url = `https://www.omdbapi.com/?apikey=80d8aa1e&s=${key}&page=${page || this.state.page}`;
     // console.log(that.state.page,"inside function------------>");
 
     request.onreadystatechange = function () {

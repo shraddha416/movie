@@ -15,7 +15,7 @@ class Profile extends React.Component{
   getMovieDetails(key) {
     let that = this;
     let request = new XMLHttpRequest();
-    let url = `http://www.omdbapi.com/?apikey=80d8aa1e&i=${key}&plot=full`;
+    let url = `https://www.omdbapi.com/?apikey=80d8aa1e&i=${key}&plot=full`;
 
     request.onreadystatechange = function() {
       console.log(this.readyState,this.status);
