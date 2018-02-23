@@ -18,7 +18,7 @@ class Profile extends React.Component{
     let url = `https://www.omdbapi.com/?apikey=80d8aa1e&i=${key}&plot=full`;
 
     request.onreadystatechange = function() {
-      console.log(this.readyState,this.status);
+      // console.log(this.readyState,this.status);
       if (this.readyState === 4 && this.status === 200) {
         let response = JSON.parse(this.responseText);
         if(response.Response) that.setState({ movieInfo: response });
@@ -37,7 +37,7 @@ class Profile extends React.Component{
   }
 
   render() {
-    console.log(this.state.movieInfo);
+    // console.log(this.state.movieInfo);
     return (
       <div className="App">
         <header className="App-header"></header>
