@@ -46,38 +46,38 @@ class Profile extends React.Component{
             {(this.state.movieInfo.Poster !== 'N/A') ? <img src={this.state.movieInfo.Poster} /> :
               <span id="dummy_image" style={{ height: 430,width: 300 }}>{this.state.movieInfo.Title[0]}</span> }
             <div style={{ paddingLeft: 40 , textAlign: 'left' }}>
-              <p>
+              <p className="desc">
                 <span className="bold">Title : </span>{this.state.movieInfo.Title}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Plot : </span>{this.state.movieInfo.Plot}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Country : </span>{this.state.movieInfo.Country}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Director : </span>{this.state.movieInfo.Director}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Language : </span>{this.state.movieInfo.Language}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Runtime : </span>{this.state.movieInfo.Runtime}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Year : </span>{this.state.movieInfo.Year}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Released Date : </span>{this.state.movieInfo.Released}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">IMDB Ratings : </span>{this.state.movieInfo.imdbRating}
               </p>
-              <p>
+              <p className="desc">
                 <span className="bold">Awards : </span>{this.state.movieInfo.Awards}
               </p>
             </div>
-          </div>) : (this.state.error) ? <p>Something went Wrong</p> : (<p>Loading ....</p>)}
+          </div>) : (this.state.error) ? <p>Something went Wrong</p> : (<div className="loader"></div>)}
         </div>
       </div>
     );

@@ -15,6 +15,7 @@ class App extends Component {
       error: '',
       endofSearch: false,
       isSearching: false,
+      loading: true,
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -30,6 +31,7 @@ class App extends Component {
       if (this.readyState === 4 && this.status === 200) {
         let response = JSON.parse(this.responseText);
         // console.log(response.Search,that.state.page,"inside function------------>");
+        that.setState({ loading: false })
 
         if(response.Response === 'False') that.setState({ error: response.Error });
         else if(that.props.list && that.props.list.length + 10 > response.totalResults && !that.state.isSearching)
@@ -97,14 +99,14 @@ class App extends Component {
                   </div>
                 </Link>)
               })
-            ) : (this.state.error === "")? (<p>loading....</p>) : (<p>{this.state.error}</p>)
+            ) : (this.state.error === "")? null : (<p>{this.state.error}</p>)
           }
           {
-            (this.state.endofSearch) ? null:
+            (this.state.endofSearch || this.state.loading || this.state.error!=="") ? (this.state.loading) ? (<div className="loader"></div>) : null :
               <button onClick={
                 ()=>
                   {
-                    this.setState({ page: this.state.page+1 });this.getList(this.state.key,this.state.page+1);}
+                    this.setState({ page: this.state.page+1, loading: true });this.getList(this.state.key,this.state.page+1);}
                   }>Load More</button>
           }
         </div>
