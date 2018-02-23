@@ -80,7 +80,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <form onSubmit={this.handleSubmit}>
-            <input type="text" value={this.state.key} onChange={this.handleChange} />
+            <input type="text" value={this.state.key} onChange={this.handleChange} placeholder="Search for movies here" />
             <input type="submit" value="Search" />
           </form>
         </header>
